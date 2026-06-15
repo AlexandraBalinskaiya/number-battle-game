@@ -4,7 +4,7 @@ A simple JavaScript game where the user competes against the computer by generat
 
 ## Live Demo
 
-https://alexandrabalinskaiya.github.io/lr8/
+https://alexandrabalinskaiya.github.io/number-battle-game/
 
 ## Description
 
