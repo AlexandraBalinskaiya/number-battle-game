@@ -47,4 +47,4 @@ The user enters a name, then plays against the computer for three rounds. In eac
 
 ## Author
 
-Alexandra Balinska
+Oleksandra Balinska
